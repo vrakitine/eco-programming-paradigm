@@ -1,5 +1,6 @@
 ***eco-programming*** is a programming paradigm that assumes that any software product is useless and environmentally harmful to humanity in the long run, except for a software product that can be quickly and inexpensively reprogrammed (changed, updated) to work with new data in new conditions.
- You ca read more:
+***
+ You can read more:
 - [0010 - Table_of_Contents](https://github.com/vrakitine/eco-programming-paradigm/blob/master/main/0010__Table_of_Contents.md)
 
 ***
