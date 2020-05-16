@@ -15,3 +15,17 @@ Is it time to start thinking globally and responsibly and think about ecology wh
 For this, a new programming paradigm is proposed.
 
 ***eco-programming*** is a programming paradigm that assumes that any software product is useless and environmentally harmful to humanity in the long run, except for a software product that can be quickly and inexpensively reprogrammed (changed, updated) to work with new data in new conditions.
+
+***
+For example, all the benefits of eco-programming in web programming can be demonstrated in a simple questionnaire:
+- [Web-site](http://evaclickfsm.pythonanywhere.com)
+- [Source](https://github.com/vrakitine/eco-programming-webfsm01)
+
+and compare how such questionnaires are done in the usual way, without thinking about the future of the software product:
+- [Web-site](http://evaclickwithoutfsm.pythonanywhere.com)
+- [Source code](https://github.com/vrakitine/eco-programming-web-without-fsm)
+
+***
+This document is for everyone to share their experience in eco-programming.
+
+Good luck.
