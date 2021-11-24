@@ -17,6 +17,8 @@ For this, a new programming paradigm is proposed.
 ***eco-programming*** is a programming paradigm that assumes that any software product is useless and environmentally harmful to humanity in the long run, except for a software product that can be quickly and inexpensively reprogrammed (changed, updated) to work with new data in new conditions.
 
 ***
+![](/main/20_00_00_00_rus/images/P00_10.jpg)
+***
 For example, all the benefits of eco-programming in web programming can be demonstrated in a simple questionnaire:
 - [Web-site with concern for future changes](http://evaclickfsm.pythonanywhere.com)
 - [Source code](https://github.com/vrakitine/eco-programming-webfsm01)
